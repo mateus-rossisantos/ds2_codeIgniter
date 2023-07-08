@@ -1,0 +1,300 @@
+INFO - 2023-07-06 00:04:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-06 00:04:52 --> Undefined variable $data
+in APPPATH\Views\home.php on line 27.
+ 1 APPPATH\Views\home.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Auth.php(47): view()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Auth->home()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\public\\index.php')
+INFO - 2023-07-06 00:04:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-06 00:04:54 --> Undefined variable $data
+in APPPATH\Views\home.php on line 27.
+ 1 APPPATH\Views\home.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Home.php(11): view()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\public\\index.php')
+INFO - 2023-07-06 00:04:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-06 00:04:55 --> Undefined variable $data
+in APPPATH\Views\home.php on line 27.
+ 1 APPPATH\Views\home.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Auth.php(47): view()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Auth->home()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\public\\index.php')
+INFO - 2023-07-06 00:04:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-06 00:04:57 --> Undefined variable $data
+in APPPATH\Views\home.php on line 27.
+ 1 APPPATH\Views\home.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Home.php(11): view()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\public\\index.php')
+INFO - 2023-07-06 00:04:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-06 00:04:57 --> Undefined variable $data
+in APPPATH\Views\home.php on line 27.
+ 1 APPPATH\Views\home.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Auth.php(47): view()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Auth->home()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\public\\index.php')
+INFO - 2023-07-06 00:04:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-06 00:04:58 --> Undefined variable $data
+in APPPATH\Views\home.php on line 27.
+ 1 APPPATH\Views\home.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Home.php(11): view()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\public\\index.php')
+INFO - 2023-07-06 00:04:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-06 00:04:58 --> Undefined variable $data
+in APPPATH\Views\home.php on line 27.
+ 1 APPPATH\Views\home.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Home.php(11): view()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\public\\index.php')
+INFO - 2023-07-06 00:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-06 00:04:59 --> Undefined variable $data
+in APPPATH\Views\home.php on line 27.
+ 1 APPPATH\Views\home.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Home.php(11): view()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\public\\index.php')
+INFO - 2023-07-06 00:05:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-06 00:05:00 --> Undefined variable $data
+in APPPATH\Views\home.php on line 27.
+ 1 APPPATH\Views\home.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Home.php(11): view()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\public\\index.php')
+INFO - 2023-07-06 00:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-06 00:05:03 --> Undefined variable $data
+in APPPATH\Views\home.php on line 27.
+ 1 APPPATH\Views\home.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Home.php(11): view()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\public\\index.php')
+INFO - 2023-07-06 00:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:05:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:05:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:05:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:05:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-06 00:05:50 --> Undefined variable $data
+in APPPATH\Views\home.php on line 27.
+ 1 APPPATH\Views\home.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Auth.php(47): view()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Auth->home()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\public\\index.php')
+INFO - 2023-07-06 00:06:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-06 00:06:59 --> Undefined variable $data
+in APPPATH\Views\home.php on line 27.
+ 1 APPPATH\Views\home.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Auth.php(47): view()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Auth->home()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\public\\index.php')
+INFO - 2023-07-06 00:07:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-06 00:07:00 --> Undefined variable $data
+in APPPATH\Views\home.php on line 27.
+ 1 APPPATH\Views\home.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Auth.php(47): view()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Auth->home()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\public\\index.php')
+INFO - 2023-07-06 00:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:10:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:10:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:11:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:11:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:24:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:25:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:25:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:27:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:28:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:28:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:30:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:30:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:31:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:32:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:33:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:33:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:34:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:35:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:35:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:35:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:35:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:38:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:39:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:39:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:42:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 00:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:08:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:09:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:13:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:13:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:13:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:17:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:18:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:20:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:20:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:21:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-06 01:37:41 --> Allowed fields must be specified for model: "App\Models\UsuarioModel"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields()
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields()
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert()
+ 4 SYSTEMPATH\BaseModel.php(692): CodeIgniter\Model->insert()
+ 5 APPPATH\Controllers\Usuario.php(25): CodeIgniter\BaseModel->save()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Usuario->cadastro()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\public\\index.php')
+CRITICAL - 2023-07-06 01:39:09 --> Allowed fields must be specified for model: "App\Models\UsuarioModel"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields()
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields()
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert()
+ 4 SYSTEMPATH\BaseModel.php(692): CodeIgniter\Model->insert()
+ 5 APPPATH\Controllers\Usuario.php(29): CodeIgniter\BaseModel->save()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Usuario->cadastro()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\public\\index.php')
+INFO - 2023-07-06 01:41:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-06 01:41:52 --> Allowed fields must be specified for model: "App\Models\UsuarioModel"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields()
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields()
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert()
+ 4 SYSTEMPATH\BaseModel.php(692): CodeIgniter\Model->insert()
+ 5 APPPATH\Controllers\Usuario.php(29): CodeIgniter\BaseModel->save()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Usuario->cadastro()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\public\\index.php')
+CRITICAL - 2023-07-06 01:42:11 --> Allowed fields must be specified for model: "App\Models\UsuarioModel"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields()
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields()
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert()
+ 4 SYSTEMPATH\BaseModel.php(692): CodeIgniter\Model->insert()
+ 5 APPPATH\Controllers\Usuario.php(29): CodeIgniter\BaseModel->save()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Usuario->cadastro()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Mateus\\Documents\\projetos DSII\\conferencias\\public\\index.php')
+INFO - 2023-07-06 01:44:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:52:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:52:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:52:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:56:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:56:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:56:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:57:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:58:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:59:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:59:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:59:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:59:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:59:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:59:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:59:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:59:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-06 01:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
